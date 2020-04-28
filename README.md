@@ -1,6 +1,6 @@
 # BASIC WEBSITE
 
-Creates a basic website using Express.
+Creates a basic website using Express and NodeJS.
 
 The website has three pages:
 
