@@ -13,9 +13,11 @@ The website has three pages:
 
 ## Installation
 
-Clone or download this repository and run `npm install`.
+Clone or download this repository.
+
+In your CLI run this command: `npm install`.
 
 
-## Running the application
+## Starting the application
 
-Use `node app`.
+In your CLI run this command: `node app`.
