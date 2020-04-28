@@ -18,4 +18,4 @@ Clone or download this repository and run `npm install`.
 
 ## Running the application
 
-Use `node app`
+Use `node app`.
