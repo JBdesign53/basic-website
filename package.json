@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Creates a basic website using Express.",
   "main": "app.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JBdesign53/basic-website.git"
